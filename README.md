@@ -1,1 +1,5 @@
 # Supermarket-Prize-Scheme
+### Project - A supermarket needs to develop the following software to encourage regular customers. For this, the customer needs to supply his/her residence address, telephone no., and the driving license no. Each customer who registers for this scheme is assigned a unique customer number(CN) by the computer. Based on the generated CN, a clerk manually prepare a customer identity card after getting the market manager's signature on it. A customer can present his customer identity card to the checkout staff when he makes any purchase. In this case, the value of each purchase is creadited against his CN. At the end of each year, the supermarket intends to award surprise gift to 10 customers who make the highest total purchase over the year. Also it intends to award a 22 caret gold coin to every customer whose purchase exceeded Rs. 10000. The entries against the CN are reset on the last day of every year after the prize winners list is generated.
+#### Techstack to be used:
+- Frontend -> HTML5, CSS3, JS, any libray.
+- Backend -> PHP, MYSQL.
